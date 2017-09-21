@@ -1,0 +1,4 @@
+Sources:
+0. http://catethysis.ru/node-js-cheerio-parser/
+1. https://github.com/theexplay/iviParse/blob/ab0ebcdc978c20c5db6abef5a6bf8433c082b6c7/iviParser.js
+2. https://github.com/theexplay/iviParse/blob/ab0ebcdc978c20c5db6abef5a6bf8433c082b6c7/iviParser2.js
